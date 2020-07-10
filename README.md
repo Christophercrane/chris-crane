@@ -1,9 +1,6 @@
-![CC](https://raw.githubusercontent.com/Christophercrane/chris/Christophercrane-images/CC.png)
-![GitHub Logo](/images/logo.png)
-
 ![Alt text](https://raw.githubusercontent.com/Christophercrane/chris/master/images/Copy%20of%20Spagetti%20Western%20Sundown%20on%20Easter.jpg "Optional title")
 
-https://raw.githubusercontent.com/Christophercrane/chris/master/images/Copy%20of%20Spagetti%20Western%20Sundown%20on%20Easter.jpg
+
 
 You can use the [editor on GitHub](https://github.com/Christophercrane/chris/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
