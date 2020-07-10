@@ -1,18 +1,22 @@
 ![Alt text](https://raw.githubusercontent.com/Christophercrane/chris/master/images/Copy%20of%20Spagetti%20Western%20Sundown%20on%20Easter.jpg "Optional title")
 
 ### Welcome to my repository. 
-Here you wil find a collection of impomrant code and enablement documents. 
+Here you wil find a collection of important code and enablement documents. 
+
+___
 
 
-
+### [Decks](https://github.com/markdown-it/markdown-it-emoji)
 Sometimes a good old fasion deck really is the best way to communicate. 
 
+### [Projects and Code repositores](https://github.com/markdown-it/markdown-it-emoji)
+Numerous projects, enablement, run books, tools etc.  
 
+### [Thoughts](https://github.com/markdown-it/markdown-it-emoji)
+It's just a blog. 
 
-
-
-
-
+### [Me](https://github.com/markdown-it/markdown-it-emoji)
+Websites I manage, Linked-In, Instagram, Contact Info 
 
 
 
