@@ -1,8 +1,22 @@
 ![Alt text](https://raw.githubusercontent.com/Christophercrane/chris/master/images/Copy%20of%20Spagetti%20Western%20Sundown%20on%20Easter.jpg "Optional title")
 
+### Welcome to my repository. 
+Here you wil find a collection of impomrant code and enablement documents. 
 
 
-Welcom to my repository. You can use the [editor on GitHub](https://github.com/Christophercrane/chris/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Sometimes a good old fasion deck really is the best way to communicate. 
+
+
+
+
+
+
+
+
+
+
+You can use the [editor on GitHub](https://github.com/Christophercrane/chris/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
