@@ -1,4 +1,5 @@
 ![CC](https://raw.githubusercontent.com/Christophercrane/chris/Christophercrane-images/CC.png)
+![GitHub Logo](/images/logo.png)
 
 You can use the [editor on GitHub](https://github.com/Christophercrane/chris/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
