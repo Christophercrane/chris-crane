@@ -2,7 +2,7 @@
 
 ### Welcome  
 **A collection of code and enablement to support your AI journey.**  
-___  
+___
 
 
 **[Decks](https://github.com/markdown-it/markdown-it-emoji)**  
