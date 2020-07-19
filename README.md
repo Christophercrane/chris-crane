@@ -1,13 +1,12 @@
 ![Alt text](https://raw.githubusercontent.com/Christophercrane/chris/master/images/Copy%20of%20Spagetti%20Western%20Sundown%20on%20Easter.jpg "Optional title")
 
-### Welcome 
-Here you wil find a collection of code and enablement to support your AI journey. 
-___
+### Welcome <br/>Here you wil find a collection of code and enablement to support your AI journey.  
+___  
 
 
-### [Decks](https://github.com/markdown-it/markdown-it-emoji)
-Sometimes a good old fasion deck really is the best way to communicate. 
-
+**[Decks](https://github.com/markdown-it/markdown-it-emoji)**  
+Sometimes a good old fasion deck really is the best way to communicate.   
+  
 -[Polyglot Bot: Write in one language, deliver to many](https://github.com/markdown-it/markdown-it-emoji)  
 -[Cloud Administration: Why its important](https://github.com/markdown-it/markdown-it-emoji)  
 -[Watson Assistant Logs: What are they, how to get them](https://github.com/markdown-it/markdown-it-emoji)  
@@ -23,7 +22,7 @@ Numerous projects, enablement, run books, tools etc.
   
   
 ### [Thoughts](https://github.com/markdown-it/markdown-it-emoji)
-It's just a blog. 
+It's just a blog.  
 -[11-19-2020 Bias and how to spot it](https://github.com/markdown-it/markdown-it-emoji)  
 -[Cloud Administration: Why its important](https://github.com/markdown-it/markdown-it-emoji)  
 -[Watson Assistant Logs: What are they, how to get them](https://github.com/markdown-it/markdown-it-emoji)  
