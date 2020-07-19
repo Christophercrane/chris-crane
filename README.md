@@ -8,6 +8,10 @@ ___
 ### [Decks](https://github.com/markdown-it/markdown-it-emoji)
 Sometimes a good old fasion deck really is the best way to communicate. 
 
+-[Polyglot Bot: Write in one language, deliver to many](https://github.com/markdown-it/markdown-it-emoji)
+
+
+
 ### [Projects and Code repositores](https://github.com/markdown-it/markdown-it-emoji)
 Numerous projects, enablement, run books, tools etc.  
 
