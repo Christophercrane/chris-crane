@@ -1,8 +1,7 @@
 ![Alt text](https://raw.githubusercontent.com/Christophercrane/chris/master/images/Copy%20of%20Spagetti%20Western%20Sundown%20on%20Easter.jpg "Optional title")
 
-### Welcome to my repository. 
-Here you wil find a collection of important code and enablement documents. 
-
+### Welcome 
+Here you wil find a collection of code and enablement to support your AI journey. 
 ___
 
 
