@@ -8,19 +8,34 @@ ___
 ### [Decks](https://github.com/markdown-it/markdown-it-emoji)
 Sometimes a good old fasion deck really is the best way to communicate. 
 
--[Polyglot Bot: Write in one language, deliver to many](https://github.com/markdown-it/markdown-it-emoji)
-
+-[Polyglot Bot: Write in one language, deliver to many](https://github.com/markdown-it/markdown-it-emoji)  
+-[Cloud Administration: Why its important](https://github.com/markdown-it/markdown-it-emoji)  
+-[Watson Assistant Logs: What are they, how to get them](https://github.com/markdown-it/markdown-it-emoji)  
+-[Sizing complex use cases: A step by step walkthough for sizing AI solutions with multiple services and environments](https://github.com/markdown-it/markdown-it-emoji)  
 
 
 ### [Projects and Code repositores](https://github.com/markdown-it/markdown-it-emoji)
 Numerous projects, enablement, run books, tools etc.  
-
+-[Polyglot Bot: Write in one language, deliver to many](https://github.com/markdown-it/markdown-it-emoji)  
+-[Cloud Administration: Why its important](https://github.com/markdown-it/markdown-it-emoji)  
+-[Watson Assistant Logs: What are they, how to get them](https://github.com/markdown-it/markdown-it-emoji)  
+-[Sizing complex use cases: A step by step walkthough for sizing AI solutions with multiple services and environments](https://github.com/markdown-it/markdown-it-emoji)  
+  
+  
 ### [Thoughts](https://github.com/markdown-it/markdown-it-emoji)
 It's just a blog. 
+-[11-19-2020 Bias and how to spot it](https://github.com/markdown-it/markdown-it-emoji)  
+-[Cloud Administration: Why its important](https://github.com/markdown-it/markdown-it-emoji)  
+-[Watson Assistant Logs: What are they, how to get them](https://github.com/markdown-it/markdown-it-emoji)  
+-[Sizing complex use cases: A step by step walkthough for sizing AI solutions with multiple services and environments](https://github.com/markdown-it/markdown-it-emoji)
+
+
+
+
+
 
 ### [Me](https://github.com/markdown-it/markdown-it-emoji)
 Websites I manage, Linked-In, Instagram, Contact Info 
-
 
 
 You can use the [editor on GitHub](https://github.com/Christophercrane/chris/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
