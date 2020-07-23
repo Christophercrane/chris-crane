@@ -1,0 +1,1078 @@
+{
+  "intents": [
+    {
+      "intent": "welcome_welcome",
+      "examples": [
+        {
+          "text": "welcome_welcome"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "About you"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "Why are you here?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "What's your name?"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "Another joke"
+        },
+        {
+          "text": "Are there jokes?"
+        },
+        {
+          "text": "Can you tell a joke?"
+        },
+        {
+          "text": "Can you tell me a joke?"
+        },
+        {
+          "text": "Do you have a joke?"
+        },
+        {
+          "text": "Do you have humor?"
+        },
+        {
+          "text": "Do you like fun?"
+        },
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "I want a joke"
+        },
+        {
+          "text": "I'm bored"
+        },
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        },
+        {
+          "text": "Tell me a joke"
+        },
+        {
+          "text": "Tell me something funny"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "What is your favorite joke?"
+        }
+      ],
+      "description": "Request a joke."
+    }
+  ],
+  "entities": [
+    {
+      "entity": "language",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "hu",
+          "synonyms": [
+            "hungarian_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "da",
+          "synonyms": [
+            "danish_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "de",
+          "synonyms": [
+            "german_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "el",
+          "synonyms": [
+            "greek_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "en",
+          "synonyms": [
+            "english_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "es",
+          "synonyms": [
+            "spanish_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "et",
+          "synonyms": [
+            "estonian_languge"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "fi",
+          "synonyms": [
+            "finnish_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "fr",
+          "synonyms": [
+            "french_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ga",
+          "synonyms": [
+            "irish_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "gu",
+          "synonyms": [
+            "gujarati_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "he",
+          "synonyms": [
+            "hebrew_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hi",
+          "synonyms": [
+            "hindi_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hr",
+          "synonyms": [
+            "croation_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cs",
+          "synonyms": [
+            "czech_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "id",
+          "synonyms": [
+            "indonesian_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "it",
+          "synonyms": [
+            "italian_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ja",
+          "synonyms": [
+            "japanese_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ko",
+          "synonyms": [
+            "korean_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "li",
+          "synonyms": [
+            "lithuanian_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "lv",
+          "synonyms": [
+            "latvian_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ml",
+          "synonyms": [
+            "malayalam_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ms",
+          "synonyms": [
+            "malay_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "mt",
+          "synonyms": [
+            "maltese_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "nb",
+          "synonyms": [
+            "norwegian_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ne",
+          "synonyms": [
+            "nepali_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "nl",
+          "synonyms": [
+            "dutch_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "pl",
+          "synonyms": [
+            "polish_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "pt",
+          "synonyms": [
+            "portuguese_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ro",
+          "synonyms": [
+            "romanian_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ru",
+          "synonyms": [
+            "russian_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "si",
+          "synonyms": [
+            "sinhala_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sk",
+          "synonyms": [
+            "slovak_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sl",
+          "synonyms": [
+            "slovenian_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sv",
+          "synonyms": [
+            "swedish_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ta",
+          "synonyms": [
+            "tamil_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "te",
+          "synonyms": [
+            "telugu_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "th",
+          "synonyms": [
+            "thai_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "tr",
+          "synonyms": [
+            "turkish_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ur",
+          "synonyms": [
+            "urdu_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "zh",
+          "synonyms": [
+            "chinese_simpl_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "zh-TW",
+          "synonyms": [
+            "chinese_tradit_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "vi",
+          "synonyms": [
+            "vietnamese_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ar",
+          "synonyms": [
+            "arabic_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "bg",
+          "synonyms": [
+            "bulgarian_language"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "bn",
+          "synonyms": [
+            "bengali_language"
+          ]
+        }
+      ],
+      "fuzzy_match": false
+    },
+    {
+      "entity": "assistanturl",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "https://gateway.watsonplatform.net/assistant/api/",
+          "synonyms": [
+            "assistanturl_south"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "https://api.us-east.assistant.watson.cloud.ibm.com",
+          "synonyms": [
+            "assistanturl_east"
+          ]
+        }
+      ],
+      "fuzzy_match": false
+    },
+    {
+      "entity": "wa_apikey",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "9G1SSSXXrRtV-k5-gn2pCVGNjKu5hAxoeZSlGbOaZ1Jj",
+          "synonyms": [
+            "wa_apikey_betainstance"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Y9hdrgwBweTrcTbqEDQ18aL_ftQglV2tDSqogGWej2j9",
+          "synonyms": [
+            "wa_apikey"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "75viwWsIyGMF7epo7r9TQXtSV_RTQSXo8O1eYvjbKsWE",
+          "synonyms": [
+            "wa_apikey_ctcovid"
+          ]
+        }
+      ],
+      "fuzzy_match": false
+    },
+    {
+      "entity": "lt_apikey",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "eFOaOyiRXRggUTG0JPwzMICuO4JLiy5guQo_ip24ZFv9",
+          "synonyms": [
+            "lt_apikey"
+          ]
+        }
+      ],
+      "fuzzy_match": false
+    },
+    {
+      "entity": "lt_version",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "2018-05-01",
+          "synonyms": [
+            "lt_version"
+          ]
+        }
+      ],
+      "fuzzy_match": false
+    },
+    {
+      "entity": "wa_version",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "2020-04-01",
+          "synonyms": [
+            "wa_ver_202004"
+          ]
+        }
+      ],
+      "fuzzy_match": false
+    },
+    {
+      "entity": "lt_url",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "https://gateway.watsonplatform.net/language-translator/api",
+          "synonyms": [
+            "lt_url"
+          ]
+        }
+      ],
+      "fuzzy_match": false
+    },
+    {
+      "entity": "assistantId",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "3e3ebc0c-69ea-4d45-bc5f-d4fa9bbb6200",
+          "synonyms": [
+            "assistantId_ctcovid"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "d1e0ccce-8295-4323-9899-38044de96e2d",
+          "synonyms": [
+            "assistantId_multiskill"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "90bc7c04-6cd6-439b-b1ed-c849855d88f8",
+          "synonyms": [
+            "assistantId_enablementbot"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "26d5f364-e2c7-4840-b78d-bb0dc2f72170",
+          "synonyms": [
+            "assistantId"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://us-south.functions.cloud.ibm.com/api/v1/web/ccrane%40us.ibm.com_Dev/default/languageorchestration.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$webhook_result_1.error"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1592439203807",
+      "conditions": "anything_else",
+      "dialog_node": "response_10_1592851531192",
+      "previous_sibling": "response_1_1592586839552"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "$webhook_result_1.message"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1592439203807",
+      "context": {
+        "session_id": "$webhook_result_1.session_id"
+      },
+      "conditions": "$webhook_result_1.message",
+      "dialog_node": "response_1_1592586839552"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome Webhook",
+      "parent": "node_1_1592441670856",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "lt_url": "$lt_url",
+            "wa_url": "$wa_url",
+            "language": "$language",
+            "lt_apikey": "$lt_apikey",
+            "wa_apikey": "$wa_apikey",
+            "lt_version": "$lt_version",
+            "session_id": "$session_id",
+            "wa_version": "$wa_version",
+            "assistantId": "$assistantId",
+            "user_utterance": "welcome_welcome"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@language",
+      "dialog_node": "node_4_1593145661040"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "$webhook_result_1.error"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1593145661040",
+      "conditions": "anything_else",
+      "dialog_node": "response_3_1593145677869",
+      "previous_sibling": "response_6_1593145676560"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$webhook_result_1.message"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1593145661040",
+      "context": {
+        "session_id": "$webhook_result_1.session_id"
+      },
+      "conditions": "$webhook_result_1.message",
+      "dialog_node": "response_6_1593145676560"
+    },
+    {
+      "type": "standard",
+      "title": "Set Variables",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_1_1592438706704",
+      "context": {
+        "lt_url": "@lt_url",
+        "wa_url": "@assistanturl",
+        "language": "@language",
+        "lt_apikey": "@lt_apikey",
+        "wa_apikey": "@wa_apikey",
+        "lt_version": "@lt_version",
+        "session_id": "0",
+        "wa_version": "@wa_version",
+        "assistantId": "@assistantId"
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "@language",
+      "dialog_node": "node_1_1592441670856"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I did not understand. You can try a different phrase."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I do not understand what you want to say."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_2_1593121572926",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A gnat sits on a bull's horn for a long time. Eventually, he asks the bull whether he'd like him to leave. The bull says he even never knew the gnat was there in the first place and won't miss him when he's gone. It's a great lesson about exaggerating one's own importance."
+              },
+              {
+                "text": "A logician's wife is having a baby. The doctor immediately hands the newborn to the dad. The wife says, \"Is it a boy or a girl?\" The logician says, \"Yes.\""
+              },
+              {
+                "text": "Heard about that new band called 1023 MB? They haven't had any gigs yet."
+              },
+              {
+                "text": "C, Eb, and G walk into a bar. The bartender says, \"Sorry, no minors.\""
+              },
+              {
+                "text": "If you're not part of the solution, you're part of the precipitate."
+              },
+              {
+                "text": "A linguistics professor says during a lecture that, \"In English, a double negative forms a positive. But in some languages, such as Russian, a double negative is still a negative. However, in no language in the world can a double positive form a negative.\" But then a voice from the back of the room piped up, \"Yeah, right.\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#General_Jokes",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1593121572926",
+      "previous_sibling": "node_2_1592439203807"
+    },
+    {
+      "type": "standard",
+      "title": "Send to Translation Webhook",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "lt_url": "$lt_url",
+            "wa_url": "$wa_url",
+            "language": "$language",
+            "lt_apikey": "$lt_apikey",
+            "wa_apikey": "$wa_apikey",
+            "lt_version": "$lt_version",
+            "session_id": "$session_id",
+            "wa_version": "$wa_version",
+            "assistantId": "$assistantId",
+            "user_utterance": "<?input.text?>"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "$language",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1592439203807",
+      "previous_sibling": "node_3_1593146715617"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello I ate a clown for breakfast and am full of Jokes. \nWould you like to hear a joke?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1593121572926"
+      },
+      "conditions": "#welcome_welcome",
+      "dialog_node": "node_3_1593146715617",
+      "previous_sibling": "node_1_1592438706704"
+    },
+    {
+      "type": "standard",
+      "title": "Choose Language and or Target",
+      "output": {
+        "generic": [
+          {
+            "title": "POLYGLOT BOT please choose Language/Idioma/Langue/Språk/שפה:",
+            "options": [
+              {
+                "label": "English",
+                "value": {
+                  "input": {
+                    "text": "English_language; wa_apikey_betainstance; assistantId_multiskill; assistanturl_south; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Espanol",
+                "value": {
+                  "input": {
+                    "text": "Spanish_language; wa_apikey_betainstance; assistantId_multiskill; assistanturl_south; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Hindi",
+                "value": {
+                  "input": {
+                    "text": "Hindi_language; wa_apikey_betainstance; assistantId_multiskill; assistanturl_south; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Japanese",
+                "value": {
+                  "input": {
+                    "text": "Japanese_language; wa_apikey_betainstance; assistantId_multiskill; assistanturl_south; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Portuguese",
+                "value": {
+                  "input": {
+                    "text": "Portuguese_language; wa_apikey_betainstance; assistantId_multiskill; assistanturl_south; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Swedish",
+                "value": {
+                  "input": {
+                    "text": "swedish_language; wa_apikey_betainstance; assistantId_multiskill; assistanturl_south; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Covid English",
+                "value": {
+                  "input": {
+                    "text": "English_language; wa_apikey_ctcovid; assistantId_ctcovid; assistanturl_east; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Covid Espanol",
+                "value": {
+                  "input": {
+                    "text": "Spanish_language; wa_apikey_ctcovid; assistantId_ctcovid; assistanturl_east; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Covid Indonesian",
+                "value": {
+                  "input": {
+                    "text": "Indonesian_language; wa_apikey_ctcovid; assistantId_ctcovid; assistanturl_east; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Covid Dutch",
+                "value": {
+                  "input": {
+                    "text": "dutch_language; wa_apikey_ctcovid; assistantId_ctcovid; assistanturl_east; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Covid Portuguese",
+                "value": {
+                  "input": {
+                    "text": "portuguese_language; wa_apikey_ctcovid; assistantId_ctcovid; assistanturl_east; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Enablement English",
+                "value": {
+                  "input": {
+                    "text": "English_language, wa_apikey_betainstance, assistantId_enablementbot; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Itenario Espanol",
+                "value": {
+                  "input": {
+                    "text": "Spanish_language, wa_apikey_betainstance, assistantId_enablementbot, assistanturl_south; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Enablement Hindi",
+                "value": {
+                  "input": {
+                    "text": "Hindi_language, wa_apikey_betainstance, assistantId_enablementbot; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": " Enablement Japanese",
+                "value": {
+                  "input": {
+                    "text": "Japanese_language, wa_apikey_betainstance, assistantId_enablementbot; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Enablement Portuguese ",
+                "value": {
+                  "input": {
+                    "text": "Portuguese_language, wa_apikey_betainstance, assistantId_enablementbot"
+                  }
+                }
+              },
+              {
+                "label": "Jokes English",
+                "value": {
+                  "input": {
+                    "text": "english_language; wa_apikey_betainstance; assistantId_multiskill; assistanturl_south; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Jokes Espanol ",
+                "value": {
+                  "input": {
+                    "text": "Spanish_language; wa_apikey_betainstance; assistantId_multiskill; assistanturl_south; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Jokes Hindi ",
+                "value": {
+                  "input": {
+                    "text": "Hindi_language; wa_apikey_betainstance; assistantId_multiskill; assistanturl_south; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              },
+              {
+                "label": "Jokes Portuguese",
+                "value": {
+                  "input": {
+                    "text": "Portuguese_language; wa_apikey_betainstance; assistantId_multiskill; assistanturl_south; wa_ver_202004; lt_version; lt_url, lt_apikey"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          },
+          {
+            "source": "https://www.ibm.com/watson/assets/img/language-translator/translate-with-ease.svg",
+            "response_type": "image"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {
+        "session_id": 0
+      },
+      "conditions": "welcome",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1592438706704"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": false
+  },
+  "learning_opt_out": false,
+  "name": "Polyglot Bot",
+  "language": "en",
+  "description": "Polyglot Bot is enables multi-language capabilities while only requiring support and dev in 1 language."
+}
