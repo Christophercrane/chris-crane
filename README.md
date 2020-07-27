@@ -13,9 +13,6 @@ Sometimes a good old fasion deck really is the best way to communicate.
 -[Watson Assistant Logs: What are they, how to get them](https://github.com/markdown-it/markdown-it-emoji)  
 -[Sizing complex use cases: A step by step walkthough for sizing AI solutions with multiple services and environments](https://github.com/markdown-it/markdown-it-emoji)  
 
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://www.your_website/file_name.pptx]' width='100%' height='600px' frameborder='0'></iframe> 
-
-
 <details>
   <summary markdown="span">Polyglot Bot: Write in one language, delivery to many</summary>
 
@@ -43,6 +40,10 @@ Sometimes a good old fasion deck really is the best way to communicate.
   <iframe src="https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
+<iframe src="https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf"></iframe>
+
+
 
 
 
