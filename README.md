@@ -1,3 +1,4 @@
+{::options parse_block_html="true" /}
 ![Alt text](https://raw.githubusercontent.com/Christophercrane/chris/master/images/Copy%20of%20Spagetti%20Western%20Sundown%20on%20Easter.jpg "Optional title")
 
 ### Welcome  
