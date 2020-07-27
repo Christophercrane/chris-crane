@@ -13,7 +13,24 @@ Sometimes a good old fasion deck really is the best way to communicate.
 -[Watson Assistant Logs: What are they, how to get them](https://github.com/markdown-it/markdown-it-emoji)  
 -[Sizing complex use cases: A step by step walkthough for sizing AI solutions with multiple services and environments](https://github.com/markdown-it/markdown-it-emoji)  
 
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://www.your_website/file_name.pptx]' width='100%' height='600px' frameborder='0'>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://www.your_website/file_name.pptx]' width='100%' height='600px' frameborder='0'></iframe> 
+
+
+<details>
+  <summary markdown="span">Polyglot Bot: Write in one language, delivery to many</summary>
+
+  -[Polyglot Bot: Write in one language, deliver to many](https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf) 
+  
+  This is the detailed text.
+
+  We can still use markdown, but we need to take the additional step of using the `parse_block_html` option as described in the [Mix HTML + Markdown Markup section](#mix-html--markdown-markup).
+
+  You can learn more about expected usage of this approach in the [GitLab UI docs](https://gitlab-org.gitlab.io/gitlab-ui/?path=/story/base-collapse--default) though the solution we use above is specific to usage in markdown.
+</details>
+
+
+
+
 
 <!-- blank line -->
 <figure class="video_container">
