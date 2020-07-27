@@ -8,19 +8,48 @@ ___
 **[Decks](https://github.com/markdown-it/markdown-it-emoji)**  
 Sometimes a good old fasion deck really is the best way to communicate.   
   
--[Polyglot Bot: Write in one language, deliver to many](https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf)  
--[Cloud Administration: Why its important](https://github.com/markdown-it/markdown-it-emoji)  
--[Watson Assistant Logs: What are they, how to get them](https://github.com/markdown-it/markdown-it-emoji)  
--[Sizing complex use cases: A step by step walkthough for sizing AI solutions with multiple services and environments](https://github.com/markdown-it/markdown-it-emoji)  
-
+  
 <details>
  
   <summary markdown="span">Polyglot Bot: Write in one language, delivery to many.</summary>
 This deck outlines the benefits and architecture of a translation solution that enables translation of a Watson Assistant skill into any of the many available languages offered via Watson Language Translator.
-<iframe src="https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf" width="100%" height="500px">
-    </iframe>
+
+[Polyglot Bot: Write in one language, deliver to many](https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf)  
 
 </details>
+
+
+<details>
+ 
+  <summary markdown="span">Polyglot Bot: Write in one language, delivery to many.</summary>
+This deck outlines the duties of a cloud administrator and why the role is important to define and assign. 
+
+-[Cloud Administration: Why its important](https://github.com/markdown-it/markdown-it-emoji)  
+
+</details>
+
+ 
+<details>
+ 
+  <summary markdown="span">Watson Assistant Logs: What are they and how to get them</summary>
+This deck outlines the contents of Watson Assistant Logs, the method for obtaining them and where to find supporting documentation. 
+
+-[Watson Assistant Logs: What are they, how to get them](https://github.com/markdown-it/markdown-it-emoji)  
+
+</details>
+ 
+ 
+ 
+<details>
+ 
+  <summary markdown="span">Sizing comples use cases. A step by step walkthough for sizing AI solutions with multiple services and environments</summary>
+This deck outlines a methodology for sizing complex AI use cases involving multiple services, environments and use cases. 
+
+-[Sizing complex use cases: A step by step walkthough for sizing AI solutions with multiple services and environments](https://github.com/markdown-it/markdown-it-emoji)  
+
+</details> 
+ 
+
 
 
 
