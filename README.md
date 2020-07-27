@@ -14,7 +14,11 @@ Sometimes a good old fasion deck really is the best way to communicate.
 -[Sizing complex use cases: A step by step walkthough for sizing AI solutions with multiple services and environments](https://github.com/markdown-it/markdown-it-emoji)  
 
 <details>
+ 
   <summary markdown="span">Polyglot Bot: Write in one language, delivery to many</summary>
+  
+  <iframe src="https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf"></iframe>
+  
   
   <iframe src="https://github.com/Christophercrane/Polyglot-Bot/raw/master/polyglotbot.pdf" width="100%" height="500px"></iframe>
 
