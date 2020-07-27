@@ -38,6 +38,13 @@ Sometimes a good old fasion deck really is the best way to communicate.
 </figure>
 <!-- blank line -->
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+
 
 ### [Projects and Code repositores](https://github.com/markdown-it/markdown-it-emoji)
 Numerous projects, enablement, run books, tools etc.  
