@@ -4,7 +4,6 @@
 **A collection of code and enablement to support your AI journey.**  
 ___
 
-
 **[Decks](https://github.com/markdown-it/markdown-it-emoji)**  
 Sometimes a good old fasion deck really is the best way to communicate.   
   
@@ -21,7 +20,7 @@ This deck outlines the benefits and architecture of a translation solution that 
 
 <details>
  
-  <summary markdown="span">Polyglot Bot: Write in one language, delivery to many.</summary>
+  <summary markdown="span">Cloud Administration: What it means and why its important</summary>
 This deck outlines the duties of a cloud administrator and why the role is important to define and assign. 
 
 -[Cloud Administration: Why its important](https://github.com/markdown-it/markdown-it-emoji)  
