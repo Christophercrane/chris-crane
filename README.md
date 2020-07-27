@@ -13,10 +13,18 @@ Sometimes a good old fasion deck really is the best way to communicate.
 -[Watson Assistant Logs: What are they, how to get them](https://github.com/markdown-it/markdown-it-emoji)  
 -[Sizing complex use cases: A step by step walkthough for sizing AI solutions with multiple services and environments](https://github.com/markdown-it/markdown-it-emoji)  
 
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://www.your_website/file_name.pptx]' width='100%' height='600px' frameborder='0'>
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 
 ### [Projects and Code repositores](https://github.com/markdown-it/markdown-it-emoji)
 Numerous projects, enablement, run books, tools etc.  
--[Polyglot Bot: Write in one language, deliver to many](https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf)  
+-[Polyglot Bot: Write in one language, deliver to many](https://github.com/Christophercrane/Polyglot-Bot)  
 
   
   
