@@ -8,7 +8,7 @@ ___
 **[Decks](https://github.com/markdown-it/markdown-it-emoji)**  
 Sometimes a good old fasion deck really is the best way to communicate.   
   
--[Polyglot Bot: Write in one language, deliver to many](https://github.com/markdown-it/markdown-it-emoji)  
+-[Polyglot Bot: Write in one language, deliver to many](https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf)  
 -[Cloud Administration: Why its important](https://github.com/markdown-it/markdown-it-emoji)  
 -[Watson Assistant Logs: What are they, how to get them](https://github.com/markdown-it/markdown-it-emoji)  
 -[Sizing complex use cases: A step by step walkthough for sizing AI solutions with multiple services and environments](https://github.com/markdown-it/markdown-it-emoji)  
@@ -16,10 +16,8 @@ Sometimes a good old fasion deck really is the best way to communicate.
 
 ### [Projects and Code repositores](https://github.com/markdown-it/markdown-it-emoji)
 Numerous projects, enablement, run books, tools etc.  
--[Polyglot Bot: Write in one language, deliver to many](https://github.com/markdown-it/markdown-it-emoji)  
--[Cloud Administration: Why its important](https://github.com/markdown-it/markdown-it-emoji)  
--[Watson Assistant Logs: What are they, how to get them](https://github.com/markdown-it/markdown-it-emoji)  
--[Sizing complex use cases: A step by step walkthough for sizing AI solutions with multiple services and environments](https://github.com/markdown-it/markdown-it-emoji)  
+-[Polyglot Bot: Write in one language, deliver to many](https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf)  
+
   
   
 ### [Thoughts](https://github.com/markdown-it/markdown-it-emoji)
