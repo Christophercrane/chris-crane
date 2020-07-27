@@ -39,8 +39,13 @@ Sometimes a good old fasion deck really is the best way to communicate.
 
 <iframe src="https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf"></iframe>
 
+<iframe src="https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf" width="100%" height="500px">
+    </iframe>
 
 
+<iframe src="https://github.com/Christophercrane/Polyglot-Bot/raw/master/polyglotbot.pdf"></iframe>
+
+<iframe src="https://github.com/Christophercrane/Polyglot-Bot/raw/master/polyglotbot.pdf" width="100%" height="500px"></iframe>
 
 
 ### [Projects and Code repositores](https://github.com/markdown-it/markdown-it-emoji)
