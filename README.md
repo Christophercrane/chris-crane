@@ -2,7 +2,7 @@
 ![Alt text](https://raw.githubusercontent.com/Christophercrane/chris/master/images/Copy%20of%20Spagetti%20Western%20Sundown%20on%20Easter.jpg "Spagetti Western at Sundown")
 
 ### Welcome  
-**A collection of code and enablement to support your AI journey.**
+**A collection of code and enablement to support your AI journey poop.**
 <!-- blank line -->
 ----
 <!-- blank line -->
