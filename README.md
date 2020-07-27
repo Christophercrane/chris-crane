@@ -15,7 +15,7 @@ Sometimes a good old fasion deck really is the best way to communicate.
 
 <details>
  
-  <summary markdown="span">Polyglot Bot: Write in one language, delivery to many</summary>
+  <summary markdown="span">Polyglot Bot: Write in one language, delivery to many poop</summary>
   1.1
   <iframe src="https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf"></iframe>
   
