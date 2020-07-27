@@ -4,6 +4,16 @@
 **A collection of code and enablement to support your AI journey.**  
 ___
 
+<div class="panel panel-gitlab-purple">
+**[Decks](https://github.com/markdown-it/markdown-it-emoji)** 
+{: .panel-heading}
+<div class="panel-body">
+
+Sometimes a good old fasion deck really is the best way to communicate. 
+
+</div>
+</div>
+
 **[Decks](https://github.com/markdown-it/markdown-it-emoji)**  
 Sometimes a good old fasion deck really is the best way to communicate.   
   
@@ -69,4 +79,16 @@ It's just a blog.
 
 ### [Me](https://github.com/markdown-it/markdown-it-emoji)
 Websites I manage, Linked-In, Instagram, Contact Info 
+
+
+
+<div class="panel panel-gitlab-purple">
+**Heading**
+{: .panel-heading}
+<div class="panel-body">
+
+Text in markdown.
+
+</div>
+</div>
 
