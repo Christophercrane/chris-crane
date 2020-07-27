@@ -22,27 +22,31 @@ Sometimes a good old fasion deck really is the best way to communicate.
   
   This is the detailed text.
   
-  
+ 1.  
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
+2. 
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
+3. 
 <iframe src="https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf"></iframe>
 
+4. 
 <iframe src="https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf" width="100%" height="500px">
     </iframe>
 
-
+5. 
 <iframe src="https://github.com/Christophercrane/Polyglot-Bot/raw/master/polyglotbot.pdf"></iframe>
 
+6. 
 <iframe src="https://github.com/Christophercrane/Polyglot-Bot/raw/master/polyglotbot.pdf" width="100%" height="500px"></iframe>
 
 </details>
