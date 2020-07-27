@@ -3,9 +3,9 @@
 
 ### Welcome  
 **A collection of code and enablement to support your AI journey.**
-___
+----
 
-## [Decks](https://github.com/markdown-it/markdown-it-emoji) 
+#### [Decks](https://github.com/markdown-it/markdown-it-emoji) 
 Sometimes a good old fasion deck really is the best way to communicate.   
   
   
