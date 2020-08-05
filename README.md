@@ -47,9 +47,12 @@ This deck outlines the contents of Watson Assistant Logs, the method for obtaini
 <details>
  
   <summary markdown="span">Sizing comples use cases. A step by step walkthough for sizing AI solutions with multiple services and environments</summary>
-This deck outlines a methodology for sizing complex AI use cases involving multiple services, environments and use cases. 
+This deck outlines a methodology for sizing complex AI use cases involving multiple services, environments and use cases. There is a lengthy preamble (storytime) before I discuss the methodology. This is mainly for context and entertainment value. Skip to page five to get straight to the methodology. 
 
 -[Sizing complex use cases: A step by step walkthough for sizing AI solutions with multiple services and environments](https://github.com/Christophercrane/Decks/blob/master/Project%20Watson%20Usage%20v3.pdf)  
+
+This methodology references a spreadsheet which can be found here. Download to use: 
+-[Sizing complex use cases: Supporting Spreadsheet](https://github.com/Christophercrane/Decks/blob/master/Projecting%20Usage%20Worksheet%20-%20See%20also%20PDF.xlsx)  
 
 </details> 
  
