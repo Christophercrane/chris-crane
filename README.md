@@ -15,7 +15,10 @@ Sometimes a good old fasion deck really is the best way to communicate.
   <summary markdown="span">Polyglot Bot: Write in one language, delivery to many.</summary>
 This deck outlines the benefits and architecture of a translation solution that enables translation of a Watson Assistant skill into any of the many available languages offered via Watson Language Translator.
 
-[Polyglot Bot: Write in one language, deliver to many](https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.pdf)  
+-[Overview Deck](https://github.com/Christophercrane/Polyglot-Bot/blob/master/Overview_Deck_Polyglot_bot.pdf)  
+-[Runbook / Set-up Instructions](https://github.com/Christophercrane/Polyglot-Bot/blob/master/Playbook_for_Polyglot_bot.pdf)  
+-[Components: Watson Assistant Skill](https://github.com/Christophercrane/Polyglot-Bot/blob/master/skill-Polyglot-Bot.json)  
+-[Components: Cloud Function Code](https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.zip)   
 
 </details>
 
@@ -56,8 +59,17 @@ This deck outlines a methodology for sizing complex AI use cases involving multi
 
 ### [Projects and Code repositores](https://github.com/markdown-it/markdown-it-emoji)
 Numerous projects, enablement, run books, tools etc.  
--[Polyglot Bot: Write in one language, deliver to many](https://github.com/Christophercrane/Polyglot-Bot)  
+<details>
+ 
+  <summary markdown="span">Polyglot Bot: Write in one language, delivery to many.</summary>
+This deck outlines the benefits and architecture of a translation solution that enables translation of a Watson Assistant skill into any of the many available languages offered via Watson Language Translator.
 
+-[Overview Deck](https://github.com/Christophercrane/Polyglot-Bot/blob/master/Overview_Deck_Polyglot_bot.pdf)  
+-[Runbook / Set-up Instructions](https://github.com/Christophercrane/Polyglot-Bot/blob/master/Playbook_for_Polyglot_bot.pdf)  
+-[Components: Watson Assistant Skill](https://github.com/Christophercrane/Polyglot-Bot/blob/master/skill-Polyglot-Bot.json)  
+-[Components: Cloud Function Code](https://github.com/Christophercrane/Polyglot-Bot/blob/master/polyglotbot.zip)   
+
+</details>
   
   
 ### [Thoughts](https://github.com/markdown-it/markdown-it-emoji)
