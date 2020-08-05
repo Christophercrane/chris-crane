@@ -28,7 +28,7 @@ This deck outlines the benefits and architecture of a translation solution that 
   <summary markdown="span">Cloud Administration: What it means and why its important</summary>
 This deck outlines the duties of a cloud administrator and why the role is important to define and assign. 
 
--[Cloud Administration: Why its important](https://github.com/markdown-it/markdown-it-emoji)  
+-[Cloud Administration: Why its important](https://github.com/Christophercrane/Decks/blob/master/IBM%20Cloud%20Subscription%20Code%20and%20Administrator%20considerations.pdf)  
 
 </details>
 
@@ -49,11 +49,18 @@ This deck outlines the contents of Watson Assistant Logs, the method for obtaini
   <summary markdown="span">Sizing comples use cases. A step by step walkthough for sizing AI solutions with multiple services and environments</summary>
 This deck outlines a methodology for sizing complex AI use cases involving multiple services, environments and use cases. 
 
--[Sizing complex use cases: A step by step walkthough for sizing AI solutions with multiple services and environments](https://github.com/markdown-it/markdown-it-emoji)  
+-[Sizing complex use cases: A step by step walkthough for sizing AI solutions with multiple services and environments](https://github.com/Christophercrane/Decks/blob/master/Project%20Watson%20Usage%20v3.pdf)  
 
 </details> 
  
+<details>
+ 
+  <summary markdown="span">Watson Assistant Logs, What are they and how to access.</summary>
+This deck outlines a methodology for sizing complex AI use cases involving multiple services, environments and use cases. 
 
+-[Watson Assistant Logs, What are they and how to access.](https://github.com/Christophercrane/Decks/blob/master/Watson%20Assistant%20Logging.pdf)  
+
+</details> 
 
 
 
