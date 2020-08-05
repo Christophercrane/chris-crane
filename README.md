@@ -64,7 +64,7 @@ Numerous projects, enablement, run books, tools etc.
   <summary markdown="span">Polyglot Bot: Write in one language, delivery to many.</summary>
 This deck outlines the benefits and architecture of a translation solution that enables translation of a Watson Assistant skill into any of the many available languages offered via Watson Language Translator.
 
--[Readme / Overview](https://github.com/Christophercrane/Polyglot-Bot)  
+-[Readme / Intro](https://github.com/Christophercrane/Polyglot-Bot)  
 -[Overview Deck](https://github.com/Christophercrane/Polyglot-Bot/blob/master/Overview_Deck_Polyglot_bot.pdf)  
 -[Runbook / Set-up Instructions](https://github.com/Christophercrane/Polyglot-Bot/blob/master/Playbook_for_Polyglot_bot.pdf)  
 -[Components: Watson Assistant Skill](https://github.com/Christophercrane/Polyglot-Bot/blob/master/skill-Polyglot-Bot.json)  
