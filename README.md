@@ -6,7 +6,7 @@
   
 ----  
   
-#### [Decks](https://github.com/markdown-it/markdown-it-emoji) 
+#### [Decks](https://github.com/Christophercrane/Decks) 
 Sometimes a good old fasion deck really is the best way to communicate.   
   
   
@@ -57,7 +57,7 @@ This methodology references a spreadsheet which can be found here. Download to u
 </details> 
  
 
-### [Projects and Code repositores](https://github.com/markdown-it/markdown-it-emoji)
+### [Projects and Code repositores](https://github.com/Christophercrane)
 Numerous projects, enablement, run books, tools etc.  
 <details>
  
