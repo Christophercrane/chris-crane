@@ -73,6 +73,20 @@ This deck outlines the benefits and architecture of a translation solution that 
 </details>
   
   
+<details>
+ 
+  <summary markdown="span">Multiskill: Connect one Watson Assistant skill to many.</summary>  
+This project focuses on connecting one skill to many via cloud functions. In includes all of the code and skill necessary.  
+
+-[Complete Repo](https://github.com/Christophercrane/Multiskill)   
+</details>
+  
+  
+ 
+  
+  
+  
+  
 ### [Thoughts](https://github.com/markdown-it/markdown-it-emoji)
 It's just a blog.  
 -[11-19-2020 Bias and how to spot it](https://github.com/markdown-it/markdown-it-emoji)  
