@@ -57,7 +57,7 @@ This methodology references a spreadsheet which can be found here. Download to u
 </details> 
  
 
-### [Projects and Code repositores](https://github.com/Christophercrane)
+#### [Projects and Code repositores](https://github.com/Christophercrane)
 Numerous projects, enablement, run books, tools etc.  
 <details>
  
@@ -87,7 +87,7 @@ This project focuses on connecting one skill to many via cloud functions. In inc
   
   
   
-### [Thoughts](https://github.com/markdown-it/markdown-it-emoji)
+#### [Thoughts](https://github.com/markdown-it/markdown-it-emoji)
 It's just a blog.  
 -[11-19-2020 Bias and how to spot it](https://github.com/markdown-it/markdown-it-emoji)  
 -[Cloud Administration: Why its important](https://github.com/markdown-it/markdown-it-emoji)  
@@ -96,6 +96,6 @@ It's just a blog.
 
 
 
-### [Me](https://github.com/markdown-it/markdown-it-emoji)
+#### [Me](https://github.com/markdown-it/markdown-it-emoji)
 Websites I manage, Linked-In, Instagram, Contact Info 
 
