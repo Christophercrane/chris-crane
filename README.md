@@ -79,6 +79,7 @@ This deck outlines the benefits and architecture of a translation solution that 
 This project focuses on connecting one skill to many via cloud functions. In includes all of the code and skill necessary.  
 
 -[Complete Repo](https://github.com/Christophercrane/Multiskill)   
+-[Demo site with live working Multiskill Assistant](https://christophercrane.github.io/Multiskill/)
 </details>
   
   
