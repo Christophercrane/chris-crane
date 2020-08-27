@@ -88,7 +88,7 @@ This deck outlines the benefits and architecture of a translation solution that 
 <details>
  
   <summary markdown="span">Multiskill: Connect one Watson Assistant skill to many.</summary>  
-This project focuses on connecting one skill to many via cloud functions. In includes all of the code and skill necessary.  
+This project focuses on connecting one skill to many via cloud functions. It includes all of the code and the skill necessary.  
 
 -[Complete Repo](https://github.com/Christophercrane/Multiskill)   
 -[Demo site with live working Multiskill Assistant](https://christophercrane.github.io/Multiskill/)
