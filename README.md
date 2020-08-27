@@ -56,6 +56,18 @@ This methodology references a spreadsheet which can be found here. Download to u
 
 </details> 
  
+ <details>
+ 
+  <summary markdown="span">IBM Federation</summary>
+This deck outlines where to find a complete Federation overview as well as lining out the process for unfederating individual users. Unfederating individual users is important if the organization still wishes to allow some users to have their own lite plan accounts for sandboxing. Federation happens at the URL level so a company could federate xyz.com but not xyz.org or xyz.es for example. 
+
+-[Federation and Unfederation on the IBM Cloud](https://github.com/Christophercrane/Decks/blob/master/IBM%20federation%20and%20unfederation%20process.pdf)  
+
+</details> 
+ 
+ 
+ 
+
 
 #### [Projects and Code repositores](https://github.com/Christophercrane)
 Numerous projects, enablement, run books, tools etc.  
