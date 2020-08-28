@@ -94,19 +94,6 @@ This project focuses on connecting one skill to many via cloud functions. It inc
 -[Demo site with live working Multiskill Assistant](https://christophercrane.github.io/Multiskill/)
 </details>
   
-  
- 
-  
-  
-  
-  
-#### [Thoughts](https://github.com/markdown-it/markdown-it-emoji)
-It's just a blog.  
--[11-19-2020 Bias and how to spot it](https://github.com/markdown-it/markdown-it-emoji)  
--[Cloud Administration: Why its important](https://github.com/markdown-it/markdown-it-emoji)  
--[Watson Assistant Logs: What are they, how to get them](https://github.com/markdown-it/markdown-it-emoji)  
--[Sizing complex use cases: A step by step walkthough for sizing AI solutions with multiple services and environments](https://github.com/markdown-it/markdown-it-emoji)
-
 
 
 #### [Me](https://github.com/markdown-it/markdown-it-emoji)
