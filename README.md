@@ -25,10 +25,10 @@ This deck outlines the benefits and architecture of a translation solution that 
 
 <details>
  
-  <summary markdown="span">Cloud Administration: What it means and why its important</summary>
-This deck outlines the duties of a cloud administrator and why the role is important to define and assign. 
+  <summary markdown="span">Feature Codes and IBM Cloud Administration: What they mean and why they are important</summary>
+This deck outlines how to apply your feature codes, the duties of a cloud administrator and why the role is important to define and assign. 
 
--[Cloud Administration: Why its important](https://github.com/Christophercrane/Decks/blob/master/IBM%20Cloud%20Subscription%20Code%20and%20Administrator%20considerations.pdf)  
+-[Feature Codes and IBM Cloud Administration: Why its important](https://github.com/Christophercrane/Decks/blob/master/IBM%20Cloud%20Subscription%20Code%20and%20Administrator%20considerations.pdf)  
 
 </details>
 
