@@ -98,7 +98,7 @@ This project focuses on connecting one skill to many via cloud functions. It inc
 <details>
  
   <summary markdown="span">Hierarchical Classifier: Scale expertise by systematizing known hierarchies</summary>  
-This project includes an engine that leverages Watson Assistant, Cloud Functions and Visual Recognition to identify the Genus, Species and Varietal of plants. Plants are used as a muse but this engine could be used against image subject matter once trained.
+This project includes an engine that leverages Watson Assistant, Cloud Functions and Visual Recognition to identify the Genus, Species and Varietal of plants. Plants are used as a muse but this engine could be used against any image subject matter once trained.
 
 -Trigger a set of LCPN classifiers   
 -Enforce hierarchy structures
@@ -107,9 +107,8 @@ This project includes an engine that leverages Watson Assistant, Cloud Functions
 -Stores results in a System Of Record  
 -Can be used by a  non technical person. 
 
--[Complete Repo](https://github.com/Christophercrane/Multiskill)   
--[Demo site with live working Multiskill Assistant](https://christophercrane.github.io/Multiskill/)
--[Demo Video] (https://www.youtube.com/watch?v=ReMwPOUOaNY)
+-[Complete Repo](https://github.com/Christophercrane/green)   
+-[Demo site with live working Hierarchical Classifying Assistant](https://christophercrane.github.io/green/test.html)
 </details>
 
 #### [Me](https://github.com/markdown-it/markdown-it-emoji)
