@@ -98,16 +98,14 @@ This project focuses on connecting one skill to many via cloud functions. It inc
 <details>
  
   <summary markdown="span">Hierarchical Classifier: Scale expertise by systematizing known hierarchies</summary>  
-This project focuses on Scale expertise by systematizing  known hierarchies  
- Solution Must scale expertise  by systematizing  known hierarchies 
+This project includes an engine that leverages Watson Assistant, Cloud Functions and Visual Recognition to identify the Genus, Species and Varietal of plants. Plants are used as a muse but this engine could be used against image subject matter once trained.
 
-Trigger a set of LCPN classifiers   
-Enforce hierarchy structures
-
+-Trigger a set of LCPN classifiers   
+-Enforce hierarchy structures
 -Transparently surface classification results and values  
 -Allows for human assisted classification  
 -Stores results in a System Of Record  
--A tool that could be used by a  non technical person. 
+-Can be used by a  non technical person. 
 
 -[Complete Repo](https://github.com/Christophercrane/Multiskill)   
 -[Demo site with live working Multiskill Assistant](https://christophercrane.github.io/Multiskill/)
