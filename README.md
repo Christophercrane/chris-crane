@@ -92,9 +92,27 @@ This project focuses on connecting one skill to many via cloud functions. It inc
 
 -[Complete Repo](https://github.com/Christophercrane/Multiskill)   
 -[Demo site with live working Multiskill Assistant](https://christophercrane.github.io/Multiskill/)
+-[Demo Video] (https://www.youtube.com/watch?v=ReMwPOUOaNY)
 </details>
   
+<details>
+ 
+  <summary markdown="span">Hierarchical Classifier: Scale expertise systematizing known hierarchies</summary>  
+This project focuses on Scale expertise by systematizing  known hierarchies  
+ Solution Must scale expertise  by systematizing  known hierarchies 
 
+Trigger a set of LCPN classifiers   
+Enforce hierarchy structures
+
+-Transparently surface classification results and values  
+-Allows for human assisted classification  
+-Stores results in a System Of Record  
+-A tool that could be used by a  non technical person. 
+
+-[Complete Repo](https://github.com/Christophercrane/Multiskill)   
+-[Demo site with live working Multiskill Assistant](https://christophercrane.github.io/Multiskill/)
+-[Demo Video] (https://www.youtube.com/watch?v=ReMwPOUOaNY)
+</details>
 
 #### [Me](https://github.com/markdown-it/markdown-it-emoji)
 Websites I manage, Linked-In, Instagram, Contact Info 
