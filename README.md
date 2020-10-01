@@ -97,7 +97,7 @@ This project focuses on connecting one skill to many via cloud functions. It inc
   
 <details>
  
-  <summary markdown="span">Hierarchical Classifier: Scale expertise systematizing known hierarchies</summary>  
+  <summary markdown="span">Hierarchical Classifier: Scale expertise by systematizing known hierarchies</summary>  
 This project focuses on Scale expertise by systematizing  known hierarchies  
  Solution Must scale expertise  by systematizing  known hierarchies 
 
