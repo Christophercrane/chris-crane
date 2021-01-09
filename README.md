@@ -75,6 +75,7 @@ Download to your computer and listen, less than 1 MG. This lightweight demo walk
 </details> 
  
  <summary markdown="span">Using Cloud Functions with Watson Assistant</summary>
+ 
 This video discusses 3 different patterns for developers interested in extending the functionality of a Watson Assistant virtual agent by using Webhooks. Webhooks allow for application functionality to be extended by connecting to other services. 
 
 -[Using Cloud Functions with Watson Assistant](https://youtu.be/MovRdjt2iu8)  
