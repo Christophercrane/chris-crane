@@ -6,7 +6,7 @@
   
 ----  
   
-#### [Decks](https://github.com/Christophercrane/Decks) 
+#### [Decks and Videos](https://github.com/Christophercrane/Decks) 
 Sometimes a good old fasion deck really is the best way to communicate.   
   
   
@@ -65,7 +65,14 @@ This deck outlines where to find a complete Federation overview as well as linin
 
 </details> 
  
+  <details>
  
+  <summary markdown="span">Watson Assistant with Phone Integration</summary>
+This demo walks the listener through a virtual agent with mutlichannel functionality. The bank customer calls to maka a payment, is able to pass 2 factor authenication, gets their balance via back end integration, makes their payment and then gets transferred to a live agent. All of these channels, Voice, SMS, Live Agent are served from a single Watson Assistant skill integrated with numerous capabilities on an integrated architecture and unified tooling. This enables customes to build virtual assistants very quickly and robustly. 
+
+-[Federation and Unfederation on the IBM Cloud](https://github.com/Christophercrane/Decks/blob/master/IBM%20federation%20and%20unfederation%20process.pdf)  
+
+</details> 
  
 
 
